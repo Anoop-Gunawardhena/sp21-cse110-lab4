@@ -2,7 +2,7 @@
 2. convert both num1 and num2 into Numbers using type conversion
 3. citylots.json
 4. part2.js
-5.11.7 MB
+5. 11.7 MB
 6. 2.92 s						
 7. Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
 8. Apache
