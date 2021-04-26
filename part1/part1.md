@@ -44,6 +44,8 @@
 
 17. The resukt would be [2,4,6], because every iteratio of the for loop calls doSomething() function and fucntions can be called before they are declared.
 
+19. 1042
+
 
     
 
