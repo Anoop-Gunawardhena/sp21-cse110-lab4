@@ -42,5 +42,8 @@
     
 15.  '===' checks for strict equality and doest factr in tye conversionn if the operands are of different types, '==' converts types.
 
+17. The resukt would be [2,4,6], because every iteratio of the for loop calls doSomething() function and fucntions can be called before they are declared.
+
+
     
 
